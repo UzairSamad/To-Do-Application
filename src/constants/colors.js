@@ -1,0 +1,1 @@
+export const appBackground = "#3EB489"
